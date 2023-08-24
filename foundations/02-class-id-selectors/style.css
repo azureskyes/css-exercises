@@ -1,0 +1,22 @@
+.tomato,
+.strawberry {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 151, 151);
+    font-family: "Verdana", "DeJaVu Sans", sans-serif;
+}
+
+.strawberry {
+    font-size: 36px;
+}
+
+#blueberry {
+    color:rgb(34, 34, 255);
+    font-size: 36px;
+}
+
+#watermelon {
+    color: rgb(0, 0, 0);
+    background-color: rgb(108, 255, 108);
+    font-size: 24px;
+    font-weight: bold;
+}
