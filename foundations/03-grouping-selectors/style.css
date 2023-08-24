@@ -1,0 +1,14 @@
+.banana,
+.noir {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.noir {
+    color: white;
+    background: black;
+}
+
+.banana {
+    background-color: yellow;
+}
